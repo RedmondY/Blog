@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /blogproject/db.sqlite3 
 =======
+=======
+>>>>>>> cf4db433d2a7fb8fc91d7bd807faf1fcfa7065f7
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -105,4 +108,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
+>>>>>>> cf4db433d2a7fb8fc91d7bd807faf1fcfa7065f7
+=======
 >>>>>>> cf4db433d2a7fb8fc91d7bd807faf1fcfa7065f7
